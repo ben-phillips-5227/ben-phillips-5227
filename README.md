@@ -38,7 +38,7 @@ My passion for sports and data intersect in projects where I:
 - **Soccer Data Scraper**: Built a Python tool to scrape player stats and auto-export to CSV for fast analysis.
 - **KMeans Clustering of Airline Delays**: An assortment of other projects that aren't related to the sports world, but that showcase other data analysis tools such as but not limited to: KMeans Clustering, Random Forests, and Text Mining. These projects can be found using the link below along with documentation of the datasets, my thought processes, and my final conclusions!
 
-[Explore my repositories](https://github.com/yourusername?tab=repositories)
+[Explore my repositories](https://github.com/ben-phillips-5227?tab=repositories)
 
 ## Let's Connect
 
