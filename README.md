@@ -1,6 +1,6 @@
 # Hi, I'm Ben Phillips
 
-**Data Analyst | Sports Enthusiast | Data Storyteller**
+**Data Analyst | Data Storyteller**
 
 Welcome to my GitHub! I'm a data analyst who loves transforming raw data into meaningful and interesting insights, especially within the world of sports. I enjoy using data to uncover trends, identifying performance patterns, and exploring using a number of different resources in order to grow my skills and expertise!
 
